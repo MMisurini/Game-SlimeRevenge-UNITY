@@ -1,0 +1,49 @@
+Base path: 'C:/Users/marco/Desktop/Unity Projects/2019.3.8f1/Editor/Data', plugins path 'C:/Users/marco/Desktop/Unity Projects/2019.3.8f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=9615 outsize=3270 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9809 outsize=7389 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4823 outsize=677 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11086 outsize=665 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=40264 outsize=37933 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=22295 outsize=15349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9735 outsize=9494 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=22339 outsize=1157 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6745 outsize=1174 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6745 outsize=988 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26542 outsize=16121 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=57905 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=14791 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=23938 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=33512 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=60190 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=36177 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7696 outsize=660 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28593 outsize=3504 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8784 outsize=94055 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6948 outsize=1630 kw=UNITY_PASS_SHADOWCASTER _PIXEL_DISPLACEMENT _DISPLACEMENT_LOCK_TILING_SCALE _PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6948 outsize=810 kw=UNITY_PASS_SHADOWCASTER _SURFACE_TYPE_TRANSPARENT _NORMALMAP_TANGENT_SPACE _BLENDMODE_ALPHA _BLENDMODE_PRESERVE_SPECULAR_LIGHTING _ENABLE_FOG_ON_TRANSPARENT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process

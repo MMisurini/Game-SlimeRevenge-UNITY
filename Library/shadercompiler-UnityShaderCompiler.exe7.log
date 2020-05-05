@@ -1,0 +1,39 @@
+Base path: 'C:/Users/marco/Desktop/Unity Projects/2019.3.8f1/Editor/Data', plugins path 'C:/Users/marco/Desktop/Unity Projects/2019.3.8f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=9615 outsize=3216 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9809 outsize=4098 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4823 outsize=2835 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=14139 outsize=1100 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=40264 outsize=41874 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=22295 outsize=14637 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9735 outsize=8199 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6119 outsize=2809 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6745 outsize=4958 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=26542 outsize=13735 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=31915 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=34300 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=58073 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=69870 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7696 outsize=5531 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28593 outsize=6006 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8784 outsize=41078 ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process

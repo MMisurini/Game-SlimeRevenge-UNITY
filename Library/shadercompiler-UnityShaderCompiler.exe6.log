@@ -1,0 +1,51 @@
+Base path: 'C:/Users/marco/Desktop/Unity Projects/2019.3.8f1/Editor/Data', plugins path 'C:/Users/marco/Desktop/Unity Projects/2019.3.8f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=9615 outsize=471 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9809 outsize=4006 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=22438 outsize=21741 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4823 outsize=3427 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11086 outsize=4742 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=40264 outsize=39488 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3450 outsize=1164 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11494 outsize=3279 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7840 outsize=8036 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6119 outsize=2708 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=6745 outsize=1366 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=8512 outsize=2100 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=48644 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=45993 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=43003 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=40387 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=40079 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=37361 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16295 outsize=103406 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28593 outsize=426 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12177 outsize=1307 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=13959 outsize=3986 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7919 outsize=11174 kw=DECALS_3RT _PIXEL_DISPLACEMENT _DISPLACEMENT_LOCK_TILING_SCALE _PIXEL_DISPLACEMENT_LOCK_OBJECT_SCALE _NORMALMAP_TANGENT_SPACE _NORMALMAP _MASKMAP _HEIGHTMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Unhandled exception: Protocol error - unexpected end of data (did the Editor crash?)
+
+Quitting shader compiler process
